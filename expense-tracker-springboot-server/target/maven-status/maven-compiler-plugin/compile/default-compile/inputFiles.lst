@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\controllers\TransactionCategoryController.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\controllers\TransactionController.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\controllers\UserController.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\entities\Transaction.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\entities\TransactionCategory.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\entities\User.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\ExpenseTrackerApplication.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\repositories\TransactionCategoryRepository.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\repositories\TransactionRepository.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\repositories\UserRepository.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\services\TransactionCategoryService.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\services\TransactionService.java
+C:\Users\User\Desktop\app\fullstack-expense-tracker-javafx-springboot-sql\expense-tracker-springboot-server\src\main\java\com\example\expense_tracker\services\UserService.java
